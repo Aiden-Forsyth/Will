@@ -4,5 +4,5 @@ author: Aiden Forsyth
 description: Blog
 # Build setting
 markdown: kramdown
-remote_theme: longpdo/neumorphism
+theme: minima
 instagram_username: aiden.forsyth
