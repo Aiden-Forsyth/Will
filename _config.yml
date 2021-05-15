@@ -7,6 +7,8 @@ description: Aiden Forsyth's personal blog
 # Build setting
 markdown: kramdown
 theme: minima
+highlighter: rouge
 
 # Social links
 instagram_username: aiden.forsyth
+
