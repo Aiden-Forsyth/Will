@@ -4,8 +4,6 @@ title: Will
 author: Aiden Forsyth
 description: Aiden Forsyth's personal blog
 timezone: America/Montreal
-paginate:    4
-paginate_path: "page:num"
 search: true
 
 # Build setting
