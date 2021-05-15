@@ -1,8 +1,13 @@
 # basic options
+
 title: Will
 author: Aiden Forsyth
-description: Blog
+description: Blog of xyz
+
 # Build setting
 markdown: kramdown
 theme: minima
+
+# Social links
 instagram_username: aiden.forsyth
+linkedin: aidenforsyth
