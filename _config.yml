@@ -3,19 +3,6 @@
 title: Will
 author: Aiden Forsyth
 description: Aiden Forsyth's personal blog
-blog_outro: Nice
-blog_intro: very
-timezone: EST
-
-#Pagination
-pagination:
-    enabled: true
-    debub: false
-    per_page: 12 # amount of posts to show
-    paginate_path: /page:num/
-    limit: 0
-    sort_field: "date"
-    sort_reverse: true
 
 # Build setting
 markdown: kramdown
