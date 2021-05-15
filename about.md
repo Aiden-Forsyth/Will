@@ -1,8 +1,1 @@
----
-layout: page
-title: About test
----
-Test of the page
-Second line
-
-# Para test
+Aiden Forsyth is a a biochemistry graduate of Carleton University
