@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About *Will*
+title: About Will
 ---
-Aiden Forsyth is a a biochemistry graduate of Carleton University
+Aiden Forsyth is a a biochemistry graduate of Carleton University sharing his thoughts on various subjets
