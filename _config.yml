@@ -6,8 +6,7 @@ description: Aiden Forsyth's personal blog
 
 # Build setting
 markdown: kramdown
-minima:
-  skin: solarized-dark
+theme: minima
 
 # Social links
 instagram_username: aiden.forsyth
