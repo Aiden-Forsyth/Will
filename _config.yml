@@ -1,7 +1,8 @@
 # basic options
 
 title: Will
-author: Aiden Forsyth
+author: 
+  name: Aiden Forsyth
 description: Aiden Forsyth's personal blog
 
 # Build setting
