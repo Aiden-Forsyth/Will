@@ -1,0 +1,8 @@
+# basic options
+title: Will
+author: Aiden Forsyth
+description: Blog
+# Build setting
+markdown: kramdown
+theme: Neuromorphism
+instagram_username: aiden.forsyth
