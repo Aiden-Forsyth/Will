@@ -7,7 +7,7 @@ timezone: America/Montreal
 search: true
 language: en
 avatar: /assets/Headshot.jpg
-url: aiden-forsyth.github.io/Will
+url: https://www.aiden-forsyth.github.io/Will
 
 # PAGINATION
 paginate: 5
