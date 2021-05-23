@@ -15,6 +15,7 @@ paginate_path: "/blog/page:num"
 markdown: kramdown
 theme: minima
 highlighter: rouge
+gems: [jekyll-paginate]
 
 # Social links
 instagram_username: aiden.forsyth
