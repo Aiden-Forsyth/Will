@@ -7,6 +7,7 @@ timezone: America/Montreal
 search: true
 RSS: false
 language: en
+avatar: /_assests/Headshot.jpg
 
 # PAGINATION
 paginate: 5
