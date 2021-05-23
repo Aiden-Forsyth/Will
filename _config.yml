@@ -18,7 +18,8 @@ markdown: kramdown
 theme: minima
 highlighter: rouge
 gems: [jekyll-paginate]
-
+plugins:
+  - jekyll-seo-tag
 # Social links
 instagram_username: aiden.forsyth
 linkedin_username: aidenforsyth
