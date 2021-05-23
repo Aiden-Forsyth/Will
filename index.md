@@ -1,3 +1,3 @@
-Welcome to the Will blog
+# Welcome to my reflections
 
-Hope you enjoy my running thoughts!
+## 
