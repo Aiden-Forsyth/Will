@@ -8,7 +8,8 @@ search: true
 flavicon: assets/speech_bubble.png
 
 # Header / Footer Text
-
+header_text: Welcome!
+header_feature_image: assets/Headshot.jpg
 # PAGINATION
 paginate: 5
 paginate_path: "/blog/page:num"
