@@ -8,7 +8,7 @@ search: true
 RSS: false
 language: en
 avatar: /assets/Headshot.jpg
-
+url: https://aiden-forsyth.github.io/Will
 # PAGINATION
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -20,6 +20,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 plugins:
   - jekyll-seo-tag
+  
 # Social links
 instagram_username: aiden.forsyth
 linkedin_username: aidenforsyth
