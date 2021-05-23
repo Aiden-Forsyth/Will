@@ -1,4 +1,3 @@
 source "https://rubygems.org"
 gemspec
 gem 'jekyll-feed'
-gem 'jekyll-favicon', '~> 0.2.8', group: :jekyll_plugins
