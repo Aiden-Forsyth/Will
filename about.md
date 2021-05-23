@@ -1,6 +1,5 @@
 ---
 title: About the author
-permalink: /about-aiden/
 ---
 
 # Aiden Ari Forsyth, BSc. 
