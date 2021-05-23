@@ -6,6 +6,7 @@ description: Aiden Forsyth's personal blog
 timezone: America/Montreal
 search: true
 RSS: false
+language: en
 
 # PAGINATION
 paginate: 5
