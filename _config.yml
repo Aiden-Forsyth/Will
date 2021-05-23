@@ -5,15 +5,10 @@ author: Aiden Forsyth
 description: Aiden Forsyth's personal blog
 timezone: America/Montreal
 search: true
-flavicon: assets/speech_bubble.png
 
-# Header / Footer Text
-header_text: Welcome!
-header_feature_image: assets/Headshot.jpg
 # PAGINATION
 paginate: 5
 paginate_path: "/blog/page:num"
-
 
 # Build setting
 markdown: kramdown
@@ -22,4 +17,4 @@ highlighter: rouge
 
 # Social links
 instagram_username: aiden.forsyth
-linkedin: linkedin.com/in/aidenforsyth/
+linkedin: aidenforsyth
