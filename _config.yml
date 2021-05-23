@@ -5,10 +5,10 @@ author: By Aiden Forsyth
 description: Aiden Forsyth's personal blog
 timezone: America/Montreal
 search: true
-RSS: false
 language: en
 avatar: /assets/Headshot.jpg
-url: https://aiden-forsyth.github.io/Will
+url: aiden-forsyth.github.io/Will
+
 # PAGINATION
 paginate: 5
 paginate_path: "/blog/page:num"
