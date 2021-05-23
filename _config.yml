@@ -5,10 +5,19 @@ author: Aiden Forsyth
 description: Aiden Forsyth's personal blog
 timezone: America/Montreal
 search: true
+flavicon: assets/speech_bubble.png
+
+# Header / Footer Text
+
+# PAGINATION
+paginate: 5
+paginate_path: "/blog/page:num"
+
 
 # Build setting
 markdown: kramdown
 theme: minima
+highlighter: rouge
 
 # Social links
 instagram_username: aiden.forsyth
