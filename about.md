@@ -1,6 +1,7 @@
 ---
 title: About the author
 layout: default
+permalink: /about/
 ---
 
 # Aiden Ari Forsyth, BSc. 
