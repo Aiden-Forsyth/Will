@@ -5,6 +5,7 @@ author: Aiden Forsyth
 description: Aiden Forsyth's personal blog
 timezone: America/Montreal
 search: true
+RSS: false
 
 # PAGINATION
 paginate: 5
