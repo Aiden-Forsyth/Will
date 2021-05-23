@@ -20,7 +20,7 @@ highlighter: rouge
 gems: [jekyll-paginate]
 plugins:
   - jekyll-seo-tag
-  
+  - jekyll-feed
 # Social links
 instagram_username: aiden.forsyth
 linkedin_username: aidenforsyth
