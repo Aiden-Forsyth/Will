@@ -1,1 +1,5 @@
-Welcome to my reflections 
+---
+layout: home
+---
+
+## Welcome to my reflections 
