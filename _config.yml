@@ -1,7 +1,8 @@
 # basic options
 
 title: Will
-author: By Aiden Forsyth
+author: 
+  name: By Aiden Forsyth
 description: Aiden Forsyth's personal blog
 timezone: America/Montreal
 search: true
@@ -22,6 +23,6 @@ show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
   date_format: "%b %-d, %Y"
-social_links:
-  instagram: aiden.forsyth
-  linkedin: aidenforsyth
+  social_links:
+    instagram: aiden.forsyth
+    linkedin: aidenforsyth
