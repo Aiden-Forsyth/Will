@@ -18,8 +18,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
 # Social links
-instagram_username: aiden.forsyth
-linkedin_username: aidenforsyth
+
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -27,3 +26,6 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%b %-d, %Y"
+social_links:
+  instagram: aiden.forsyth
+  linkedin: aidenforsyth
