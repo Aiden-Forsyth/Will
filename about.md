@@ -1,6 +1,6 @@
 ---
 title: About the author
-layout: default
+layout: page
 permalink: /about/
 ---
 
