@@ -9,6 +9,7 @@ search: true
 language: en
 avatar: /assets/Headshot.jpg
 url: https://www.aiden-forsyth.github.io/Will
+rss: false
 
 # Build setting
 markdown: kramdown
