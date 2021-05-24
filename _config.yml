@@ -1,13 +1,12 @@
 # basic options
 
-title: Will
+title: Willful reflections
 author: 
   name: By Aiden Ari Forsyth
 description: Personal reflections
 timezone: America/Montreal
 search: true
 language: en
-avatar: /assets/Headshot.jpg
 url: https://www.aiden-forsyth.github.io/Will
 rss: false
 
