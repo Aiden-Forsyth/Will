@@ -18,6 +18,7 @@ gems: [jekyll-paginate]
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
+paginate: 5
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
