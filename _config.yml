@@ -9,10 +9,6 @@ language: en
 avatar: /assets/Headshot.jpg
 url: https://www.aiden-forsyth.github.io/Will
 
-# PAGINATION
-paginate: 5
-paginate_path: "/blog/page:num"
-
 # Build setting
 markdown: kramdown
 theme: minima
