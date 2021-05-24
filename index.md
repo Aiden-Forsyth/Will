@@ -1,5 +1,1 @@
----
-layout: null
----
-
-# Welcome to my reflections
+Welcome to my reflections
