@@ -27,15 +27,3 @@ minima:
 
   skin: dark
 
-#Navigation
-navigation_links:
-  -title: Blog
-  url: /
-  
-  -Title: Learn More
-  url: /LearnMore
-   
-  -Title: Books
-  url: /Books
-  
-  
