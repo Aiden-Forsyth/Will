@@ -1,43 +1,27 @@
+
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  </head>
+
+  {%- include head.html -%}
+
   <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+    {%- include header.html -%}
 
-          <nav class="nav-menu">
-            {% include navigation.html %}
-          </nav>
-        </header>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
       </div>
-    </div>
+    </main>
 
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
+
 
     <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          {%- if site.footer_links -%}
-          <div class="social-icons">
-            {%- for footer_link in site.footer_links -%}
-            {%- if footer_link.url contains "://" -%}
-            {%- assign url = footer_link.url -%}
-            {%- else -%}
-            {%- assign url = footer_link.url | relative_url -%}
-            {%- endif -%}
-            <a class="social-icon" href="{{ url }}"><i class="{{ footer_link.icon | default: 'fa fa-link' }} fa-2x" title="{{ footer_link.title }}"></i></a>
-            {%- endfor -%}
-          </div>
-          {%- endif -%}
-
           <div class="copyright">
             {% if site.copyright %}
             {{ site.copyright | markdownify }}
