@@ -13,7 +13,7 @@ rss: false
 # Build setting
 markdown: kramdown
 
-#theme: minima
+theme: minima
 highlighter: rouge
 gems: [jekyll-paginate]
 plugins:
