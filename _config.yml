@@ -16,9 +16,10 @@ remote_theme:benbalter/retlab
 #theme: minima
 #highlighter: rouge
 #gems: [jekyll-paginate]
-#plugins:
-#  - jekyll-seo-tag
-#  - jekyll-feed
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-remote-theme
   
 show_excerpts: false # set to true to show excerpts on the homepage
 
