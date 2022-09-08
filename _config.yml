@@ -26,3 +26,16 @@ minima:
   date_format: "%b %-d, %Y"
 
   skin: dark
+
+#Navigation
+navigation_links:
+  -title: Blog
+  url: /
+  
+  -Title: Learn More
+  url: /LearnMore
+   
+  -Title: Books
+  url: /Books
+  
+  
