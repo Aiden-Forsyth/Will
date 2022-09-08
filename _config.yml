@@ -14,7 +14,7 @@ rss: false
 markdown: kramdown
 
 #theme: minima
-#highlighter: rouge
+highlighter: rouge
 gems: [jekyll-paginate]
 plugins:
   - jekyll-seo-tag
