@@ -12,7 +12,8 @@ rss: false
 
 # Build setting
 markdown: kramdown
-theme: minima
+remote_theme:benbalter/retlab
+#theme: minima
 highlighter: rouge
 gems: [jekyll-paginate]
 plugins:
