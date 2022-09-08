@@ -14,17 +14,17 @@ rss: false
 markdown: kramdown
 remote_theme:benbalter/retlab
 #theme: minima
-highlighter: rouge
-gems: [jekyll-paginate]
-plugins:
-  - jekyll-seo-tag
-  - jekyll-feed
+#highlighter: rouge
+#gems: [jekyll-paginate]
+#plugins:
+#  - jekyll-seo-tag
+#  - jekyll-feed
   
 show_excerpts: false # set to true to show excerpts on the homepage
 
-minima:
-  date_format: "%b %-d, %Y"
-  social_links:
-    instagram: aiden.forsyth
-    linkedin: aidenforsyth
-  skin: dark
+#minima:
+  #date_format: "%b %-d, %Y"
+  #social_links:
+    #instagram: aiden.forsyth
+    #linkedin: aidenforsyth
+  #skin: dark
